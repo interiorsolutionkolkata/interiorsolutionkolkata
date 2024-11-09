@@ -1038,11 +1038,11 @@ a:focus {
 
 /* When the user hovers over the .box, change the image */
 #residential-box:hover .service-img {
-  content: url('../images/s3.jpg'); /* Swap image on hover */
+  content: url('../images/s2.jpg'); /* Swap image on hover */
 }
 
 #commercial-box:hover .service-img {
-  content: url('../images/s1.jpg'); /* Swap image on hover */
+  content: url('../images/s3.jpg'); /* Swap image on hover */
 }
 
 #office-box:hover .service-img {
