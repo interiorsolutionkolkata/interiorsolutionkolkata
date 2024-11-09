@@ -1014,3 +1014,23 @@ a:focus {
       font-size: 12px;
   }
 }
+
+/* Style for the box images */
+.service-img {
+  width: 100%; /* Make sure the image takes up the full width */
+  height: auto;
+  transition: all 0.3s ease; /* Optional smooth transition */
+}
+
+/* When the user hovers over the .box, change the image */
+#residential-box:hover .service-img {
+  content: url('../images/s3.jpg'); /* Swap image on hover */
+}
+
+#commercial-box:hover .service-img {
+  content: url('../images/s1.jpg'); /* Swap image on hover */
+}
+
+#office-box:hover .service-img {
+  content: url('../images/s2.jpg'); /* Swap image on hover */
+}
