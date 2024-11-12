@@ -1,0 +1,544 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Nov 2024 23:45:55 at https://decorenterprise.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -WC2%Pns2u1%s%uN0%I0p7DaK0c3H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://decorenterprise.com/ -O1 "C:\My Web Sites\last" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:45:56	Warning: 	Note: due to https://decorenterprise.com remote robots.txt rules, links beginning with these path will be forbidden: /testimonials/, /dev/product/, /portfolio-posts/maniac-typeface/, /portfolio-posts/jupiter-promotional-tags/, /product/page/2/ (see in the options to disable this)
+23:51:23	Error: 	"Not Found" (404) at link https://decorenterprise.com/Trident/ (from https://decorenterprise.com/)
+23:51:23	Warning: 	Moved Permanently for https://decorenterprise.com/?p=66
+23:51:23	Warning: 	File has moved from https://decorenterprise.com/?p=66 to https://decorenterprise.com/projects/
+23:51:25	Error: 	"Not Found" (404) at link https://decorenterprise.com/projects/Trident/ (from https://decorenterprise.com/projects/)
+23:51:25	Warning: 	Moved Permanently for https://decorenterprise.com/?p=59
+23:51:25	Warning: 	File has moved from https://decorenterprise.com/?p=59 to https://decorenterprise.com/about-us/
+23:51:27	Error: 	"Not Found" (404) at link https://decorenterprise.com/about-us/Trident/ (from https://decorenterprise.com/about-us/)
+23:51:27	Warning: 	Moved Permanently for https://decorenterprise.com/?p=61
+23:51:27	Warning: 	File has moved from https://decorenterprise.com/?p=61 to https://decorenterprise.com/services/
+23:51:27	Error: 	"Not Found" (404) at link https://decorenterprise.com/services/Trident/ (from https://decorenterprise.com/services/)
+23:51:27	Warning: 	Moved Permanently for https://decorenterprise.com/?p=213
+23:51:27	Warning: 	File has moved from https://decorenterprise.com/?p=213 to https://decorenterprise.com/plaster-of-paris-wall-punning/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fplaster-of-paris-wall-punning%2F (from https://decorenterprise.com/plaster-of-paris-wall-punning/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fplaster-of-paris-wall-punning%2F&format=xml (from https://decorenterprise.com/plaster-of-paris-wall-punning/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/plaster-of-paris-wall-punning/Trident/ (from https://decorenterprise.com/plaster-of-paris-wall-punning/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=231
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=231 to https://decorenterprise.com/interior-designer-kolkata/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Finterior-designer-kolkata%2F (from https://decorenterprise.com/interior-designer-kolkata/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Finterior-designer-kolkata%2F&format=xml (from https://decorenterprise.com/interior-designer-kolkata/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/interior-designer-kolkata/Trident/ (from https://decorenterprise.com/interior-designer-kolkata/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=230
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=230 to https://decorenterprise.com/gypsum-false-ceiling-contractors-kolkata/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-false-ceiling-contractors-kolkata%2F (from https://decorenterprise.com/gypsum-false-ceiling-contractors-kolkata/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-false-ceiling-contractors-kolkata%2F&format=xml (from https://decorenterprise.com/gypsum-false-ceiling-contractors-kolkata/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-false-ceiling-contractors-kolkata/Trident/ (from https://decorenterprise.com/gypsum-false-ceiling-contractors-kolkata/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=226
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=226 to https://decorenterprise.com/gypsum-cornice-design/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-cornice-design%2F (from https://decorenterprise.com/gypsum-cornice-design/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-cornice-design%2F&format=xml (from https://decorenterprise.com/gypsum-cornice-design/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-cornice-design/Trident/ (from https://decorenterprise.com/gypsum-cornice-design/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=225
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=225 to https://decorenterprise.com/gypsum-board-partition/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-board-partition%2F (from https://decorenterprise.com/gypsum-board-partition/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-board-partition%2F&format=xml (from https://decorenterprise.com/gypsum-board-partition/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-board-partition/Trident/ (from https://decorenterprise.com/gypsum-board-partition/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=227
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=227 to https://decorenterprise.com/wall-panel-design/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fwall-panel-design%2F (from https://decorenterprise.com/wall-panel-design/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fwall-panel-design%2F&format=xml (from https://decorenterprise.com/wall-panel-design/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wall-panel-design/Trident/ (from https://decorenterprise.com/wall-panel-design/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=224
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=224 to https://decorenterprise.com/false-ceiling-designs/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffalse-ceiling-designs%2F (from https://decorenterprise.com/false-ceiling-designs/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffalse-ceiling-designs%2F&format=xml (from https://decorenterprise.com/false-ceiling-designs/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-designs/Trident/ (from https://decorenterprise.com/false-ceiling-designs/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=221
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=221 to https://decorenterprise.com/armstrong-false-ceiling/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Farmstrong-false-ceiling%2F (from https://decorenterprise.com/armstrong-false-ceiling/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Farmstrong-false-ceiling%2F&format=xml (from https://decorenterprise.com/armstrong-false-ceiling/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/armstrong-false-ceiling/Trident/ (from https://decorenterprise.com/armstrong-false-ceiling/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=217
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=217 to https://decorenterprise.com/electrical-wiring-painting-work/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Felectrical-wiring-painting-work%2F (from https://decorenterprise.com/electrical-wiring-painting-work/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Felectrical-wiring-painting-work%2F&format=xml (from https://decorenterprise.com/electrical-wiring-painting-work/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/electrical-wiring-painting-work/Trident/ (from https://decorenterprise.com/electrical-wiring-painting-work/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=405
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=405 to https://decorenterprise.com/modular-kitchen-in-kolkata/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fmodular-kitchen-in-kolkata%2F (from https://decorenterprise.com/modular-kitchen-in-kolkata/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fmodular-kitchen-in-kolkata%2F&format=xml (from https://decorenterprise.com/modular-kitchen-in-kolkata/)
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/modular-kitchen-in-kolkata/Trident/ (from https://decorenterprise.com/modular-kitchen-in-kolkata/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=254
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=254 to https://decorenterprise.com/false-ceiling-design/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-design/Trident/ (from https://decorenterprise.com/false-ceiling-design/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=314
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=314 to https://decorenterprise.com/aerolite-calcium-silicate-false-ceiling-designs/
+23:51:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/aerolite-calcium-silicate-false-ceiling-designs/Trident/ (from https://decorenterprise.com/aerolite-calcium-silicate-false-ceiling-designs/)
+23:51:28	Warning: 	Moved Permanently for https://decorenterprise.com/?p=384
+23:51:28	Warning: 	File has moved from https://decorenterprise.com/?p=384 to https://decorenterprise.com/armstrong-false-ceiling-designs/
+23:51:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/armstrong-false-ceiling-designs/Trident/ (from https://decorenterprise.com/armstrong-false-ceiling-designs/)
+23:51:31	Warning: 	Moved Permanently for https://decorenterprise.com/?p=258
+23:51:31	Warning: 	File has moved from https://decorenterprise.com/?p=258 to https://decorenterprise.com/false-ceiling-for-bedroom/
+23:51:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-for-bedroom/Trident/ (from https://decorenterprise.com/false-ceiling-for-bedroom/)
+23:51:31	Warning: 	Moved Permanently for https://decorenterprise.com/?p=280
+23:51:31	Warning: 	File has moved from https://decorenterprise.com/?p=280 to https://decorenterprise.com/gypsum-board-false-ceiling/
+23:51:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-board-false-ceiling/Trident/ (from https://decorenterprise.com/gypsum-board-false-ceiling/)
+23:51:31	Warning: 	Moved Permanently for https://decorenterprise.com/?p=319
+23:51:31	Warning: 	File has moved from https://decorenterprise.com/?p=319 to https://decorenterprise.com/gypsum-laminate-grid-false-ceiling/
+23:51:31	Warning: 	Moved Permanently for https://decorenterprise.com/interior-designer/
+23:51:31	Warning: 	File has moved from https://decorenterprise.com/interior-designer/ to https://decorenterprise.com/interior-designer-kolkata/
+23:51:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-laminate-grid-false-ceiling/Trident/ (from https://decorenterprise.com/gypsum-laminate-grid-false-ceiling/)
+23:51:31	Warning: 	Moved Permanently for https://decorenterprise.com/?p=268
+23:51:31	Warning: 	File has moved from https://decorenterprise.com/?p=268 to https://decorenterprise.com/hotel-false-ceiling/
+23:51:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/hotel-false-ceiling/Trident/ (from https://decorenterprise.com/hotel-false-ceiling/)
+23:51:31	Warning: 	Moved Permanently for https://decorenterprise.com/?p=274
+23:51:31	Warning: 	File has moved from https://decorenterprise.com/?p=274 to https://decorenterprise.com/industrial-false-ceiling/
+23:51:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/industrial-false-ceiling/Trident/ (from https://decorenterprise.com/industrial-false-ceiling/)
+23:51:31	Warning: 	Moved Permanently for https://decorenterprise.com/?p=322
+23:51:31	Warning: 	File has moved from https://decorenterprise.com/?p=322 to https://decorenterprise.com/metal-false-ceiling-design/
+23:51:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-design-bedroom/ (from https://decorenterprise.com/metal-false-ceiling-design/)
+23:51:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/metal-false-ceiling-design/Trident/ (from https://decorenterprise.com/metal-false-ceiling-design/)
+23:51:31	Warning: 	Moved Permanently for https://decorenterprise.com/?p=262
+23:51:31	Warning: 	File has moved from https://decorenterprise.com/?p=262 to https://decorenterprise.com/office-false-ceiling/
+23:51:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/office-false-ceiling/Trident/ (from https://decorenterprise.com/office-false-ceiling/)
+23:51:31	Warning: 	Moved Permanently for https://decorenterprise.com/?p=283
+23:51:31	Warning: 	File has moved from https://decorenterprise.com/?p=283 to https://decorenterprise.com/pop-board-false-ceiling/
+23:51:33	Error: 	"Not Found" (404) at link https://decorenterprise.com/pop-board-false-ceiling/Trident/ (from https://decorenterprise.com/pop-board-false-ceiling/)
+23:51:33	Warning: 	Moved Permanently for https://decorenterprise.com/?p=265
+23:51:33	Warning: 	File has moved from https://decorenterprise.com/?p=265 to https://decorenterprise.com/show-room-false-ceiling/
+23:51:33	Error: 	"Not Found" (404) at link https://decorenterprise.com/show-room-false-ceiling/Trident/ (from https://decorenterprise.com/show-room-false-ceiling/)
+23:51:33	Warning: 	Moved Permanently for https://decorenterprise.com/?p=326
+23:51:33	Warning: 	File has moved from https://decorenterprise.com/?p=326 to https://decorenterprise.com/hilux-calcium-silicate-false-ceiling-partition/
+23:51:33	Error: 	"Not Found" (404) at link https://decorenterprise.com/hilux-calcium-silicate-false-ceiling-partition/Trident/ (from https://decorenterprise.com/hilux-calcium-silicate-false-ceiling-partition/)
+23:51:33	Warning: 	Moved Permanently for https://decorenterprise.com/?p=271
+23:51:33	Warning: 	File has moved from https://decorenterprise.com/?p=271 to https://decorenterprise.com/banquet-false-ceiling/
+23:51:33	Error: 	"Not Found" (404) at link https://decorenterprise.com/banquet-false-ceiling/Trident/ (from https://decorenterprise.com/banquet-false-ceiling/)
+23:51:33	Warning: 	Moved Permanently for https://decorenterprise.com/?p=232
+23:51:33	Warning: 	File has moved from https://decorenterprise.com/?p=232 to https://decorenterprise.com/product/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/product/Trident/ (from https://decorenterprise.com/product/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=298
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=298 to https://decorenterprise.com/aerolite-calcium-silicate-board/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/aerolite-calcium-silicate-board/Trident/ (from https://decorenterprise.com/aerolite-calcium-silicate-board/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=310
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=310 to https://decorenterprise.com/gypsum-board-joint-tap/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-board-joint-tap/Trident/ (from https://decorenterprise.com/gypsum-board-joint-tap/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=307
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=307 to https://decorenterprise.com/gypsum-scrow/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-scrow/Trident/ (from https://decorenterprise.com/gypsum-scrow/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=304
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=304 to https://decorenterprise.com/hilex-calcium-silicate-board/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/hilex-calcium-silicate-board/Trident/ (from https://decorenterprise.com/hilex-calcium-silicate-board/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=286
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=286 to https://decorenterprise.com/plaster-of-paris/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/plaster-of-paris/Trident/ (from https://decorenterprise.com/plaster-of-paris/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=295
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=295 to https://decorenterprise.com/square-grid-chanel/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/square-grid-chanel/Trident/ (from https://decorenterprise.com/square-grid-chanel/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=292
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=292 to https://decorenterprise.com/structure-gi-chanel/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/structure-gi-chanel/Trident/ (from https://decorenterprise.com/structure-gi-chanel/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=289
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=289 to https://decorenterprise.com/ultra-gypsum-chanel/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/ultra-gypsum-chanel/Trident/ (from https://decorenterprise.com/ultra-gypsum-chanel/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=301
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=301 to https://decorenterprise.com/pvc-false-ceiling-board/
+23:51:34	Error: 	"Not Found" (404) at link https://decorenterprise.com/pvc-false-ceiling-board/Trident/ (from https://decorenterprise.com/pvc-false-ceiling-board/)
+23:51:34	Warning: 	Moved Permanently for https://decorenterprise.com/?p=80
+23:51:34	Warning: 	File has moved from https://decorenterprise.com/?p=80 to https://decorenterprise.com/gallery/
+23:51:35	Warning: 	Note: due to decorenterprise.com remote robots.txt rules, links beginning with these path will be forbidden: /testimonials/, /dev/product/, /portfolio-posts/maniac-typeface/, /portfolio-posts/jupiter-promotional-tags/, /product/page/2/ (see in the options to disable this)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/gallery/Trident/ (from https://decorenterprise.com/gallery/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=393
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=393 to https://decorenterprise.com/faq/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/faq/Trident/ (from https://decorenterprise.com/faq/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=69
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=69 to https://decorenterprise.com/contact-us/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/contact-us/Trident/ (from https://decorenterprise.com/contact-us/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=329
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=329 to https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fjayati-ghosh-tata-housing-avinda%2F (from https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fjayati-ghosh-tata-housing-avinda%2F&format=xml (from https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/Trident/ (from https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=349
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=349 to https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Falok-solanki-interior-designing-project-in-gujrat%2F (from https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Falok-solanki-interior-designing-project-in-gujrat%2F&format=xml (from https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/Trident/ (from https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=364
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=364 to https://decorenterprise.com/interior-designing-project-in-ahmedabad/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Finterior-designing-project-in-ahmedabad%2F (from https://decorenterprise.com/interior-designing-project-in-ahmedabad/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Finterior-designing-project-in-ahmedabad%2F&format=xml (from https://decorenterprise.com/interior-designing-project-in-ahmedabad/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/interior-designing-project-in-ahmedabad/Trident/ (from https://decorenterprise.com/interior-designing-project-in-ahmedabad/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=372
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=372 to https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffalse-ceiling-and-interior-designing-project-in-gujrat%2F (from https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffalse-ceiling-and-interior-designing-project-in-gujrat%2F&format=xml (from https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/Trident/ (from https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=446
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=446 to https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fproject-for-debotosh-banerjee-kolkata%2F (from https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fproject-for-debotosh-banerjee-kolkata%2F&format=xml (from https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/Trident/ (from https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=229
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=229 to https://decorenterprise.com/plaster-of-paris-false-ceiling-designing/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fplaster-of-paris-false-ceiling-designing%2F (from https://decorenterprise.com/plaster-of-paris-false-ceiling-designing/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fplaster-of-paris-false-ceiling-designing%2F&format=xml (from https://decorenterprise.com/plaster-of-paris-false-ceiling-designing/)
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/plaster-of-paris-false-ceiling-designing/Trident/ (from https://decorenterprise.com/plaster-of-paris-false-ceiling-designing/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=582
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=582 to https://decorenterprise.com/gypsum-board-partition-design/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-board-partition-design/Trident/ (from https://decorenterprise.com/gypsum-board-partition-design/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=277
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=277 to https://decorenterprise.com/armstrong-board-false-ceiling/
+23:51:35	Error: 	"Not Found" (404) at link https://decorenterprise.com/armstrong-board-false-ceiling/Trident/ (from https://decorenterprise.com/armstrong-board-false-ceiling/)
+23:51:35	Warning: 	Moved Permanently for https://decorenterprise.com/?p=389
+23:51:35	Warning: 	File has moved from https://decorenterprise.com/?p=389 to https://decorenterprise.com/pop-false-ceiling-contractor/
+23:51:36	Error: 	"Not Found" (404) at link https://decorenterprise.com/pop-false-ceiling-contractor/Trident/ (from https://decorenterprise.com/pop-false-ceiling-contractor/)
+23:51:36	Warning: 	HTML file (2227 bytes) retransferred due to lack of cache: https://decorenterprise.com/feed/
+23:51:36	Warning: 	HTML file (1648 bytes) retransferred due to lack of cache: https://decorenterprise.com/comments/feed/
+23:51:41	Warning: 	HTML file (242318 bytes) retransferred due to lack of cache: https://decorenterprise.com/wp-json/
+23:51:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/9
+23:51:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2F
+23:51:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2F&format=xml
+23:52:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/66
+23:52:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fprojects%2F
+23:52:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fprojects%2F&format=xml
+23:52:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/59
+23:52:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fabout-us%2F
+23:52:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fabout-us%2F&format=xml
+23:52:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/61
+23:52:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/213
+23:52:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fservices%2F&format=xml
+23:52:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fservices%2F
+23:52:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/231
+23:52:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/230
+23:52:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/226
+23:52:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/225
+23:52:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/227
+23:53:05	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://decorenterprise.com/)
+23:53:05	Warning: 	HTML file (71917 bytes) retransferred due to lack of cache: https://decorenterprise.com/about-us/
+23:53:21	Warning: 	HTML file (74046 bytes) retransferred due to lack of cache: https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/
+23:53:24	Warning: 	HTML file (71818 bytes) retransferred due to lack of cache: https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/
+23:53:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/224
+23:53:29	Warning: 	HTML file (67809 bytes) retransferred due to lack of cache: https://decorenterprise.com/interior-designing-project-in-ahmedabad/
+23:53:34	Warning: 	HTML file (69356 bytes) retransferred due to lack of cache: https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/
+23:53:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/221
+23:53:37	Warning: 	HTML file (71054 bytes) retransferred due to lack of cache: https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/
+23:53:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/217
+23:53:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/405
+23:53:39	Warning: 	HTML file (56305 bytes) retransferred due to lack of cache: https://decorenterprise.com/Trident/
+23:53:40	Error: 	"Not Found" (404) at link https://decorenterprise.com/Trident/ (from https://decorenterprise.com/)
+23:53:41	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=66
+23:53:42	Warning: 	Moved Permanently for https://decorenterprise.com/?p=66
+23:53:42	Warning: 	File has moved from https://decorenterprise.com/?p=66 to https://decorenterprise.com/projects/
+23:53:43	Warning: 	HTML file (67585 bytes) retransferred due to lack of cache: https://decorenterprise.com/plaster-of-paris-false-ceiling-designing/
+23:53:47	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=59
+23:53:47	Warning: 	Moved Permanently for https://decorenterprise.com/?p=59
+23:53:47	Warning: 	File has moved from https://decorenterprise.com/?p=59 to https://decorenterprise.com/about-us/
+23:53:49	Warning: 	HTML file (70119 bytes) retransferred due to lack of cache: https://decorenterprise.com/gypsum-board-partition-design/
+23:53:52	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=61
+23:53:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/254
+23:53:52	Warning: 	Moved Permanently for https://decorenterprise.com/?p=61
+23:53:52	Warning: 	File has moved from https://decorenterprise.com/?p=61 to https://decorenterprise.com/services/
+23:53:53	Warning: 	HTML file (56314 bytes) retransferred due to lack of cache: https://decorenterprise.com/services/Trident/
+23:53:54	Error: 	"Not Found" (404) at link https://decorenterprise.com/services/Trident/ (from https://decorenterprise.com/services/)
+23:53:54	Warning: 	HTML file (815 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=213
+23:53:55	Warning: 	Moved Permanently for https://decorenterprise.com/?p=213
+23:53:55	Warning: 	File has moved from https://decorenterprise.com/?p=213 to https://decorenterprise.com/plaster-of-paris-wall-punning/
+23:53:58	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=231
+23:53:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffalse-ceiling-design%2F
+23:53:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffalse-ceiling-design%2F&format=xml
+23:53:59	Warning: 	Moved Permanently for https://decorenterprise.com/?p=231
+23:53:59	Warning: 	File has moved from https://decorenterprise.com/?p=231 to https://decorenterprise.com/interior-designer-kolkata/
+23:53:59	Warning: 	HTML file (56331 bytes) retransferred due to lack of cache: https://decorenterprise.com/interior-designer-kolkata/Trident/
+23:54:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/314
+23:54:01	Error: 	"Not Found" (404) at link https://decorenterprise.com/interior-designer-kolkata/Trident/ (from https://decorenterprise.com/interior-designer-kolkata/)
+23:54:01	Warning: 	HTML file (837 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=230
+23:54:02	Warning: 	Moved Permanently for https://decorenterprise.com/?p=230
+23:54:02	Warning: 	File has moved from https://decorenterprise.com/?p=230 to https://decorenterprise.com/gypsum-false-ceiling-contractors-kolkata/
+23:54:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/384
+23:54:04	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=226
+23:54:04	Warning: 	Moved Permanently for https://decorenterprise.com/?p=226
+23:54:04	Warning: 	File has moved from https://decorenterprise.com/?p=226 to https://decorenterprise.com/gypsum-cornice-design/
+23:54:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Faerolite-calcium-silicate-false-ceiling-designs%2F
+23:54:05	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=225
+23:54:06	Warning: 	Moved Permanently for https://decorenterprise.com/?p=225
+23:54:06	Warning: 	File has moved from https://decorenterprise.com/?p=225 to https://decorenterprise.com/gypsum-board-partition/
+23:54:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Faerolite-calcium-silicate-false-ceiling-designs%2F&format=xml
+23:54:07	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=227
+23:54:09	Warning: 	Moved Permanently for https://decorenterprise.com/?p=227
+23:54:09	Warning: 	File has moved from https://decorenterprise.com/?p=227 to https://decorenterprise.com/wall-panel-design/
+23:54:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Farmstrong-false-ceiling-designs%2F
+23:54:11	Warning: 	HTML file (56323 bytes) retransferred due to lack of cache: https://decorenterprise.com/wall-panel-design/Trident/
+23:54:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Farmstrong-false-ceiling-designs%2F&format=xml
+23:54:13	Error: 	"Not Found" (404) at link https://decorenterprise.com/wall-panel-design/Trident/ (from https://decorenterprise.com/wall-panel-design/)
+23:54:13	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=224
+23:54:13	Warning: 	Moved Permanently for https://decorenterprise.com/?p=224
+23:54:13	Warning: 	File has moved from https://decorenterprise.com/?p=224 to https://decorenterprise.com/false-ceiling-designs/
+23:54:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/258
+23:54:15	Warning: 	HTML file (56327 bytes) retransferred due to lack of cache: https://decorenterprise.com/false-ceiling-designs/Trident/
+23:54:16	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-designs/Trident/ (from https://decorenterprise.com/false-ceiling-designs/)
+23:54:16	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=221
+23:54:17	Warning: 	Moved Permanently for https://decorenterprise.com/?p=221
+23:54:17	Warning: 	File has moved from https://decorenterprise.com/?p=221 to https://decorenterprise.com/armstrong-false-ceiling/
+23:54:20	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=217
+23:54:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffalse-ceiling-for-bedroom%2F
+23:54:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffalse-ceiling-for-bedroom%2F&format=xml
+23:54:21	Warning: 	Moved Permanently for https://decorenterprise.com/?p=217
+23:54:21	Warning: 	File has moved from https://decorenterprise.com/?p=217 to https://decorenterprise.com/electrical-wiring-painting-work/
+23:54:21	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=405
+23:54:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/280
+23:54:22	Warning: 	Moved Permanently for https://decorenterprise.com/?p=405
+23:54:22	Warning: 	File has moved from https://decorenterprise.com/?p=405 to https://decorenterprise.com/modular-kitchen-in-kolkata/
+23:54:23	Warning: 	HTML file (56332 bytes) retransferred due to lack of cache: https://decorenterprise.com/modular-kitchen-in-kolkata/Trident/
+23:54:24	Error: 	"Not Found" (404) at link https://decorenterprise.com/modular-kitchen-in-kolkata/Trident/ (from https://decorenterprise.com/modular-kitchen-in-kolkata/)
+23:54:24	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=254
+23:54:25	Warning: 	Moved Permanently for https://decorenterprise.com/?p=254
+23:54:25	Warning: 	File has moved from https://decorenterprise.com/?p=254 to https://decorenterprise.com/false-ceiling-design/
+23:54:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-board-false-ceiling%2F
+23:54:28	Warning: 	HTML file (56326 bytes) retransferred due to lack of cache: https://decorenterprise.com/false-ceiling-design/Trident/
+23:54:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-board-false-ceiling%2F&format=xml
+23:54:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/319
+23:54:30	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-design/Trident/ (from https://decorenterprise.com/false-ceiling-design/)
+23:54:30	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=314
+23:54:31	Warning: 	Moved Permanently for https://decorenterprise.com/?p=314
+23:54:31	Warning: 	File has moved from https://decorenterprise.com/?p=314 to https://decorenterprise.com/aerolite-calcium-silicate-false-ceiling-designs/
+23:54:35	Warning: 	HTML file (56353 bytes) retransferred due to lack of cache: https://decorenterprise.com/aerolite-calcium-silicate-false-ceiling-designs/Trident/
+23:54:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-laminate-grid-false-ceiling%2F
+23:54:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-laminate-grid-false-ceiling%2F&format=xml
+23:54:36	Error: 	"Not Found" (404) at link https://decorenterprise.com/aerolite-calcium-silicate-false-ceiling-designs/Trident/ (from https://decorenterprise.com/aerolite-calcium-silicate-false-ceiling-designs/)
+23:54:36	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=384
+23:54:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/268
+23:54:37	Warning: 	Moved Permanently for https://decorenterprise.com/?p=384
+23:54:37	Warning: 	File has moved from https://decorenterprise.com/?p=384 to https://decorenterprise.com/armstrong-false-ceiling-designs/
+23:54:37	Warning: 	HTML file (67214 bytes) retransferred due to lack of cache: https://decorenterprise.com/armstrong-board-false-ceiling/
+23:54:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fhotel-false-ceiling%2F
+23:54:42	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=258
+23:54:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fhotel-false-ceiling%2F&format=xml
+23:54:43	Warning: 	Moved Permanently for https://decorenterprise.com/?p=258
+23:54:43	Warning: 	File has moved from https://decorenterprise.com/?p=258 to https://decorenterprise.com/false-ceiling-for-bedroom/
+23:54:43	Warning: 	HTML file (56331 bytes) retransferred due to lack of cache: https://decorenterprise.com/false-ceiling-for-bedroom/Trident/
+23:54:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/274
+23:54:45	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-for-bedroom/Trident/ (from https://decorenterprise.com/false-ceiling-for-bedroom/)
+23:54:45	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=280
+23:54:46	Warning: 	Moved Permanently for https://decorenterprise.com/?p=280
+23:54:46	Warning: 	File has moved from https://decorenterprise.com/?p=280 to https://decorenterprise.com/gypsum-board-false-ceiling/
+23:54:48	Warning: 	HTML file (56332 bytes) retransferred due to lack of cache: https://decorenterprise.com/gypsum-board-false-ceiling/Trident/
+23:54:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Findustrial-false-ceiling%2F
+23:54:50	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-board-false-ceiling/Trident/ (from https://decorenterprise.com/gypsum-board-false-ceiling/)
+23:54:50	Warning: 	HTML file (825 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=319
+23:54:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/322
+23:54:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Findustrial-false-ceiling%2F&format=xml
+23:54:51	Warning: 	Moved Permanently for https://decorenterprise.com/?p=319
+23:54:51	Warning: 	File has moved from https://decorenterprise.com/?p=319 to https://decorenterprise.com/gypsum-laminate-grid-false-ceiling/
+23:54:51	Warning: 	HTML file (837 bytes) retransferred due to lack of cache: https://decorenterprise.com/interior-designer/
+23:54:53	Warning: 	Moved Permanently for https://decorenterprise.com/interior-designer/
+23:54:53	Warning: 	File has moved from https://decorenterprise.com/interior-designer/ to https://decorenterprise.com/interior-designer-kolkata/
+23:54:56	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=268
+23:54:57	Warning: 	Moved Permanently for https://decorenterprise.com/?p=268
+23:54:57	Warning: 	File has moved from https://decorenterprise.com/?p=268 to https://decorenterprise.com/hotel-false-ceiling/
+23:54:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fmetal-false-ceiling-design%2F
+23:54:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/262
+23:54:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fmetal-false-ceiling-design%2F&format=xml
+23:54:58	Warning: 	HTML file (56325 bytes) retransferred due to lack of cache: https://decorenterprise.com/hotel-false-ceiling/Trident/
+23:54:59	Error: 	"Not Found" (404) at link https://decorenterprise.com/hotel-false-ceiling/Trident/ (from https://decorenterprise.com/hotel-false-ceiling/)
+23:54:59	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=274
+23:55:00	Warning: 	Moved Permanently for https://decorenterprise.com/?p=274
+23:55:00	Warning: 	File has moved from https://decorenterprise.com/?p=274 to https://decorenterprise.com/industrial-false-ceiling/
+23:55:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Foffice-false-ceiling%2F
+23:55:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Foffice-false-ceiling%2F&format=xml
+23:55:05	Warning: 	HTML file (56330 bytes) retransferred due to lack of cache: https://decorenterprise.com/industrial-false-ceiling/Trident/
+23:55:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/283
+23:55:06	Error: 	"Not Found" (404) at link https://decorenterprise.com/industrial-false-ceiling/Trident/ (from https://decorenterprise.com/industrial-false-ceiling/)
+23:55:06	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=322
+23:55:07	Warning: 	Moved Permanently for https://decorenterprise.com/?p=322
+23:55:07	Warning: 	File has moved from https://decorenterprise.com/?p=322 to https://decorenterprise.com/metal-false-ceiling-design/
+23:55:11	Warning: 	HTML file (56326 bytes) retransferred due to lack of cache: https://decorenterprise.com/false-ceiling-design-bedroom/
+23:55:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fpop-board-false-ceiling%2F
+23:55:12	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-design-bedroom/ (from https://decorenterprise.com/metal-false-ceiling-design/)
+23:55:12	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=262
+23:55:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fpop-board-false-ceiling%2F&format=xml
+23:55:13	Warning: 	Moved Permanently for https://decorenterprise.com/?p=262
+23:55:13	Warning: 	File has moved from https://decorenterprise.com/?p=262 to https://decorenterprise.com/office-false-ceiling/
+23:55:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/265
+23:55:14	Warning: 	HTML file (56326 bytes) retransferred due to lack of cache: https://decorenterprise.com/office-false-ceiling/Trident/
+23:55:16	Error: 	"Not Found" (404) at link https://decorenterprise.com/office-false-ceiling/Trident/ (from https://decorenterprise.com/office-false-ceiling/)
+23:55:16	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=283
+23:55:17	Warning: 	Moved Permanently for https://decorenterprise.com/?p=283
+23:55:17	Warning: 	File has moved from https://decorenterprise.com/?p=283 to https://decorenterprise.com/pop-board-false-ceiling/
+23:55:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fshow-room-false-ceiling%2F
+23:55:20	Warning: 	HTML file (67496 bytes) retransferred due to lack of cache: https://decorenterprise.com/pop-false-ceiling-contractor/
+23:55:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fshow-room-false-ceiling%2F&format=xml
+23:55:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/326
+23:55:23	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=265
+23:55:24	Warning: 	Moved Permanently for https://decorenterprise.com/?p=265
+23:55:24	Warning: 	File has moved from https://decorenterprise.com/?p=265 to https://decorenterprise.com/show-room-false-ceiling/
+23:55:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fhilux-calcium-silicate-false-ceiling-partition%2F
+23:55:27	Warning: 	HTML file (56329 bytes) retransferred due to lack of cache: https://decorenterprise.com/show-room-false-ceiling/Trident/
+23:55:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fhilux-calcium-silicate-false-ceiling-partition%2F&format=xml
+23:55:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/271
+23:55:29	Error: 	"Not Found" (404) at link https://decorenterprise.com/show-room-false-ceiling/Trident/ (from https://decorenterprise.com/show-room-false-ceiling/)
+23:55:29	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=326
+23:55:30	Warning: 	Moved Permanently for https://decorenterprise.com/?p=326
+23:55:30	Warning: 	File has moved from https://decorenterprise.com/?p=326 to https://decorenterprise.com/hilux-calcium-silicate-false-ceiling-partition/
+23:55:30	Warning: 	HTML file (56352 bytes) retransferred due to lack of cache: https://decorenterprise.com/hilux-calcium-silicate-false-ceiling-partition/Trident/
+23:55:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/hilux-calcium-silicate-false-ceiling-partition/Trident/ (from https://decorenterprise.com/hilux-calcium-silicate-false-ceiling-partition/)
+23:55:31	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=271
+23:55:32	Warning: 	Moved Permanently for https://decorenterprise.com/?p=271
+23:55:32	Warning: 	File has moved from https://decorenterprise.com/?p=271 to https://decorenterprise.com/banquet-false-ceiling/
+23:55:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fbanquet-false-ceiling%2F
+23:55:35	Warning: 	HTML file (56327 bytes) retransferred due to lack of cache: https://decorenterprise.com/banquet-false-ceiling/Trident/
+23:55:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fbanquet-false-ceiling%2F&format=xml
+23:55:36	Error: 	"Not Found" (404) at link https://decorenterprise.com/banquet-false-ceiling/Trident/ (from https://decorenterprise.com/banquet-false-ceiling/)
+23:55:36	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=232
+23:55:37	Warning: 	Moved Permanently for https://decorenterprise.com/?p=232
+23:55:37	Warning: 	File has moved from https://decorenterprise.com/?p=232 to https://decorenterprise.com/product/
+23:55:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/232
+23:55:42	Warning: 	HTML file (56313 bytes) retransferred due to lack of cache: https://decorenterprise.com/product/Trident/
+23:55:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fproduct%2F
+23:55:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fproduct%2F&format=xml
+23:55:43	Error: 	"Not Found" (404) at link https://decorenterprise.com/product/Trident/ (from https://decorenterprise.com/product/)
+23:55:43	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=298
+23:55:44	Warning: 	Moved Permanently for https://decorenterprise.com/?p=298
+23:55:44	Warning: 	File has moved from https://decorenterprise.com/?p=298 to https://decorenterprise.com/aerolite-calcium-silicate-board/
+23:55:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/298
+23:55:45	Warning: 	HTML file (56337 bytes) retransferred due to lack of cache: https://decorenterprise.com/aerolite-calcium-silicate-board/Trident/
+23:55:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/310
+23:55:47	Error: 	"Not Found" (404) at link https://decorenterprise.com/aerolite-calcium-silicate-board/Trident/ (from https://decorenterprise.com/aerolite-calcium-silicate-board/)
+23:55:47	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=310
+23:55:48	Warning: 	Moved Permanently for https://decorenterprise.com/?p=310
+23:55:48	Warning: 	File has moved from https://decorenterprise.com/?p=310 to https://decorenterprise.com/gypsum-board-joint-tap/
+23:55:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Faerolite-calcium-silicate-board%2F
+23:55:50	Warning: 	HTML file (56328 bytes) retransferred due to lack of cache: https://decorenterprise.com/gypsum-board-joint-tap/Trident/
+23:55:52	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-board-joint-tap/Trident/ (from https://decorenterprise.com/gypsum-board-joint-tap/)
+23:55:52	Warning: 	HTML file (781 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=307
+23:55:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-board-joint-tap%2F
+23:55:53	Warning: 	Moved Permanently for https://decorenterprise.com/?p=307
+23:55:53	Warning: 	File has moved from https://decorenterprise.com/?p=307 to https://decorenterprise.com/gypsum-scrow/
+23:55:53	Warning: 	HTML file (56318 bytes) retransferred due to lack of cache: https://decorenterprise.com/gypsum-scrow/Trident/
+23:55:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-board-joint-tap%2F&format=xml
+23:55:55	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-scrow/Trident/ (from https://decorenterprise.com/gypsum-scrow/)
+23:55:55	Warning: 	HTML file (813 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=304
+23:55:55	Warning: 	Moved Permanently for https://decorenterprise.com/?p=304
+23:55:55	Warning: 	File has moved from https://decorenterprise.com/?p=304 to https://decorenterprise.com/hilex-calcium-silicate-board/
+23:55:58	Warning: 	HTML file (56334 bytes) retransferred due to lack of cache: https://decorenterprise.com/hilex-calcium-silicate-board/Trident/
+23:55:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-scrow%2F
+23:55:59	Error: 	"Not Found" (404) at link https://decorenterprise.com/hilex-calcium-silicate-board/Trident/ (from https://decorenterprise.com/hilex-calcium-silicate-board/)
+23:55:59	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=286
+23:56:00	Warning: 	Moved Permanently for https://decorenterprise.com/?p=286
+23:56:00	Warning: 	File has moved from https://decorenterprise.com/?p=286 to https://decorenterprise.com/plaster-of-paris/
+23:56:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fhilex-calcium-silicate-board%2F
+23:56:02	Warning: 	HTML file (56322 bytes) retransferred due to lack of cache: https://decorenterprise.com/plaster-of-paris/Trident/
+23:56:03	Error: 	"Not Found" (404) at link https://decorenterprise.com/plaster-of-paris/Trident/ (from https://decorenterprise.com/plaster-of-paris/)
+23:56:03	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=295
+23:56:04	Warning: 	Moved Permanently for https://decorenterprise.com/?p=295
+23:56:04	Warning: 	File has moved from https://decorenterprise.com/?p=295 to https://decorenterprise.com/square-grid-chanel/
+23:56:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fplaster-of-paris%2F&format=xml
+23:56:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fplaster-of-paris%2F
+23:56:07	Warning: 	HTML file (56324 bytes) retransferred due to lack of cache: https://decorenterprise.com/square-grid-chanel/Trident/
+23:56:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/292
+23:56:09	Error: 	"Not Found" (404) at link https://decorenterprise.com/square-grid-chanel/Trident/ (from https://decorenterprise.com/square-grid-chanel/)
+23:56:09	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=292
+23:56:10	Warning: 	Moved Permanently for https://decorenterprise.com/?p=292
+23:56:10	Warning: 	File has moved from https://decorenterprise.com/?p=292 to https://decorenterprise.com/structure-gi-chanel/
+23:56:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fsquare-grid-chanel%2F
+23:56:11	Warning: 	HTML file (56325 bytes) retransferred due to lack of cache: https://decorenterprise.com/structure-gi-chanel/Trident/
+23:56:12	Error: 	"Not Found" (404) at link https://decorenterprise.com/structure-gi-chanel/Trident/ (from https://decorenterprise.com/structure-gi-chanel/)
+23:56:12	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=289
+23:56:13	Warning: 	Moved Permanently for https://decorenterprise.com/?p=289
+23:56:13	Warning: 	File has moved from https://decorenterprise.com/?p=289 to https://decorenterprise.com/ultra-gypsum-chanel/
+23:56:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fstructure-gi-chanel%2F
+23:56:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fstructure-gi-chanel%2F&format=xml
+23:56:16	Warning: 	HTML file (56325 bytes) retransferred due to lack of cache: https://decorenterprise.com/ultra-gypsum-chanel/Trident/
+23:56:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fultra-gypsum-chanel%2F
+23:56:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/301
+23:56:19	Error: 	"Not Found" (404) at link https://decorenterprise.com/ultra-gypsum-chanel/Trident/ (from https://decorenterprise.com/ultra-gypsum-chanel/)
+23:56:19	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=301
+23:56:20	Warning: 	Moved Permanently for https://decorenterprise.com/?p=301
+23:56:20	Warning: 	File has moved from https://decorenterprise.com/?p=301 to https://decorenterprise.com/pvc-false-ceiling-board/
+23:56:24	Warning: 	HTML file (56329 bytes) retransferred due to lack of cache: https://decorenterprise.com/pvc-false-ceiling-board/Trident/
+23:56:26	Error: 	"Not Found" (404) at link https://decorenterprise.com/pvc-false-ceiling-board/Trident/ (from https://decorenterprise.com/pvc-false-ceiling-board/)
+23:56:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fpvc-false-ceiling-board%2F&format=xml
+23:56:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fpvc-false-ceiling-board%2F
+23:56:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/80
+23:56:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgallery%2F&format=xml
+23:56:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgallery%2F
+23:57:05	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=80
+23:57:06	Warning: 	Moved Permanently for https://decorenterprise.com/?p=80
+23:57:06	Warning: 	File has moved from https://decorenterprise.com/?p=80 to https://decorenterprise.com/gallery/
+23:57:14	Warning: 	Note: due to decorenterprise.com remote robots.txt rules, links beginning with these path will be forbidden: /testimonials/, /dev/product/, /portfolio-posts/maniac-typeface/, /portfolio-posts/jupiter-promotional-tags/, /product/page/2/ (see in the options to disable this)
+23:57:19	Error: 	"Not Found" (404) at link decorenterprise.com/wp-content/gallery/gallery/thumbs/thumbs-interior-3.webp (from https://decorenterprise.com/gallery/)
+23:57:23	Error: 	"Not Found" (404) at link decorenterprise.com/wp-content/gallery/gallery/thumbs/thumbs-interior-10.webp (from https://decorenterprise.com/gallery/)
+23:57:23	Warning: 	HTML file (56313 bytes) retransferred due to lack of cache: https://decorenterprise.com/gallery/Trident/
+23:57:25	Error: 	"Not Found" (404) at link https://decorenterprise.com/gallery/Trident/ (from https://decorenterprise.com/gallery/)
+23:57:26	Warning: 	HTML file (763 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=393
+23:57:27	Warning: 	Moved Permanently for https://decorenterprise.com/?p=393
+23:57:27	Warning: 	File has moved from https://decorenterprise.com/?p=393 to https://decorenterprise.com/faq/
+23:57:29	Warning: 	HTML file (56309 bytes) retransferred due to lack of cache: https://decorenterprise.com/faq/Trident/
+23:57:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/faq/Trident/ (from https://decorenterprise.com/faq/)
+23:57:31	Warning: 	HTML file (775 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=69
+23:57:32	Warning: 	Moved Permanently for https://decorenterprise.com/?p=69
+23:57:32	Warning: 	File has moved from https://decorenterprise.com/?p=69 to https://decorenterprise.com/contact-us/
+23:57:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffaq%2F
+23:57:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Ffaq%2F&format=xml
+23:57:34	Warning: 	HTML file (56316 bytes) retransferred due to lack of cache: https://decorenterprise.com/contact-us/Trident/
+23:57:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/project/329
+23:57:37	Error: 	"Not Found" (404) at link https://decorenterprise.com/contact-us/Trident/ (from https://decorenterprise.com/contact-us/)
+23:57:37	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=329
+23:57:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fcontact-us%2F
+23:57:38	Warning: 	Moved Permanently for https://decorenterprise.com/?p=329
+23:57:38	Warning: 	File has moved from https://decorenterprise.com/?p=329 to https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/
+23:57:39	Warning: 	HTML file (56338 bytes) retransferred due to lack of cache: https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/Trident/
+23:57:41	Error: 	"Not Found" (404) at link https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/Trident/ (from https://decorenterprise.com/jayati-ghosh-tata-housing-avinda/)
+23:57:41	Warning: 	HTML file (855 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=349
+23:57:43	Warning: 	Moved Permanently for https://decorenterprise.com/?p=349
+23:57:43	Warning: 	File has moved from https://decorenterprise.com/?p=349 to https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/
+23:57:45	Warning: 	HTML file (56355 bytes) retransferred due to lack of cache: https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/Trident/
+23:57:47	Error: 	"Not Found" (404) at link https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/Trident/ (from https://decorenterprise.com/alok-solanki-interior-designing-project-in-gujrat/)
+23:57:47	Warning: 	HTML file (835 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=364
+23:57:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/project/364
+23:57:48	Warning: 	Moved Permanently for https://decorenterprise.com/?p=364
+23:57:48	Warning: 	File has moved from https://decorenterprise.com/?p=364 to https://decorenterprise.com/interior-designing-project-in-ahmedabad/
+23:57:48	Warning: 	HTML file (56345 bytes) retransferred due to lack of cache: https://decorenterprise.com/interior-designing-project-in-ahmedabad/Trident/
+23:57:50	Error: 	"Not Found" (404) at link https://decorenterprise.com/interior-designing-project-in-ahmedabad/Trident/ (from https://decorenterprise.com/interior-designing-project-in-ahmedabad/)
+23:57:50	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=372
+23:57:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/project/372
+23:57:51	Warning: 	Moved Permanently for https://decorenterprise.com/?p=372
+23:57:51	Warning: 	File has moved from https://decorenterprise.com/?p=372 to https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/
+23:57:51	Warning: 	HTML file (56360 bytes) retransferred due to lack of cache: https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/Trident/
+23:57:53	Error: 	"Not Found" (404) at link https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/Trident/ (from https://decorenterprise.com/false-ceiling-and-interior-designing-project-in-gujrat/)
+23:57:53	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=446
+23:57:54	Warning: 	Moved Permanently for https://decorenterprise.com/?p=446
+23:57:54	Warning: 	File has moved from https://decorenterprise.com/?p=446 to https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/
+23:57:55	Warning: 	HTML file (56343 bytes) retransferred due to lack of cache: https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/Trident/
+23:57:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/service/229
+23:57:56	Error: 	"Not Found" (404) at link https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/Trident/ (from https://decorenterprise.com/project-for-debotosh-banerjee-kolkata/)
+23:57:56	Warning: 	HTML file (837 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=229
+23:57:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/582
+23:57:58	Warning: 	Moved Permanently for https://decorenterprise.com/?p=229
+23:57:58	Warning: 	File has moved from https://decorenterprise.com/?p=229 to https://decorenterprise.com/plaster-of-paris-false-ceiling-designing/
+23:57:58	Warning: 	HTML file (815 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=582
+23:57:59	Warning: 	Moved Permanently for https://decorenterprise.com/?p=582
+23:57:59	Warning: 	File has moved from https://decorenterprise.com/?p=582 to https://decorenterprise.com/gypsum-board-partition-design/
+23:58:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/wp/v2/pages/277
+23:58:01	Warning: 	HTML file (56335 bytes) retransferred due to lack of cache: https://decorenterprise.com/gypsum-board-partition-design/Trident/
+23:58:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-board-partition-design%2F
+23:58:03	Error: 	"Not Found" (404) at link https://decorenterprise.com/gypsum-board-partition-design/Trident/ (from https://decorenterprise.com/gypsum-board-partition-design/)
+23:58:03	Warning: 	HTML file (815 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=277
+23:58:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fgypsum-board-partition-design%2F&format=xml
+23:58:04	Warning: 	Moved Permanently for https://decorenterprise.com/?p=277
+23:58:04	Warning: 	File has moved from https://decorenterprise.com/?p=277 to https://decorenterprise.com/armstrong-board-false-ceiling/
+23:58:04	Warning: 	HTML file (56335 bytes) retransferred due to lack of cache: https://decorenterprise.com/armstrong-board-false-ceiling/Trident/
+23:58:06	Error: 	"Not Found" (404) at link https://decorenterprise.com/armstrong-board-false-ceiling/Trident/ (from https://decorenterprise.com/armstrong-board-false-ceiling/)
+23:58:06	Warning: 	HTML file (813 bytes) retransferred due to lack of cache: https://decorenterprise.com/?p=389
+23:58:07	Warning: 	Moved Permanently for https://decorenterprise.com/?p=389
+23:58:07	Warning: 	File has moved from https://decorenterprise.com/?p=389 to https://decorenterprise.com/pop-false-ceiling-contractor/
+23:58:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Farmstrong-board-false-ceiling%2F
+23:58:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Farmstrong-board-false-ceiling%2F&format=xml
+23:58:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fpop-false-ceiling-contractor%2F
+23:58:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://decorenterprise.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdecorenterprise.com%2Fpop-false-ceiling-contractor%2F&format=xml
+23:58:28	Error: 	"Not Found" (404) at link https://decorenterprise.com/wp-content/themes/decor/preview/images/new-badge.png (from https://decorenterprise.com/wp-content/themes/decor/css/style.css)
+23:58:29	Error: 	"Not Found" (404) at link https://decorenterprise.com/images/overlay-pattern/gplay.png (from https://decorenterprise.com/wp-content/themes/decor/css/style.css)
+23:58:30	Error: 	"Not Found" (404) at link https://decorenterprise.com/images/overlay-pattern/3px-tile.png (from https://decorenterprise.com/wp-content/themes/decor/css/style.css)
+23:58:31	Error: 	"Not Found" (404) at link https://decorenterprise.com/images/overlay-pattern/asfalt-dark.png (from https://decorenterprise.com/wp-content/themes/decor/css/style.css)
+23:58:33	Error: 	"Not Found" (404) at link https://decorenterprise.com/images/overlay-pattern/axiom-pattern.png (from https://decorenterprise.com/wp-content/themes/decor/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 42 seconds : 662 links scanned, 666 files written (36875929 bytes overall) [39537179 bytes received at 51886 bytes/sec], 17525116 bytes transferred using HTTP compression in 298 files, ratio 30%
+(128 errors, 405 warnings, 0 messages)
